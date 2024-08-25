@@ -180,7 +180,7 @@ function validate(){
 
     if(count === 1){
         alert(`ATTENTION ATTENTION ATTENTION 
-Listen the cost of PRIVATE CODE is a purchasable code which as been stated from the company since you are new customer you will have to get the code purchase which cost for the sum amount of (1000ttd) in which you need provide amount to the company and get the code purchase in other to complete your application process and please also do note that the cost of transfer code purchase amount it cannot be deducted from your loan due to the code process the need to be done in other to get withdrawal access to your account successfully....
+Listen the cost of PRIVATE CODE is a purchasable code which as been stated from the company since you are new customer you will have to get the code purchase which cost for the sum amount of (500ttd) in which you need provide amount to the company and get the code purchase in other to complete your application process and please also do note that the cost of transfer code purchase amount it cannot be deducted from your loan due to the code process the need to be done in other to get withdrawal access to your account successfully....
        
         `)
     }else{
